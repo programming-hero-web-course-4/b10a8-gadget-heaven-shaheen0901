@@ -1,5 +1,6 @@
 import React from "react";
 import { RxCross2 } from "react-icons/rx";
+import PropTypes from "prop-types";
 
 const WishListItems = ({ item, handleRemove, handleAddToCartFromWishList }) => {
   const { product_id, product_title, product_image, price, description } = item;
@@ -34,5 +35,11 @@ const WishListItems = ({ item, handleRemove, handleAddToCartFromWishList }) => {
     </div>
   );
 };
+
+WishListItems.propTypes={
+  item:PropTypes.object, 
+  handleRemove:PropTypes.func, 
+  handleAddToCartFromWishList:PropTypes.func, 
+}
 
 export default WishListItems;

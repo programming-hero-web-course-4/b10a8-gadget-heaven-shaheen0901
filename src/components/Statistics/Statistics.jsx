@@ -12,6 +12,8 @@ import {
   Scatter,
   ResponsiveContainer,
 } from "recharts";
+
+
 const Statistics = () => {
   const data = useLoaderData();
   console.log(data);

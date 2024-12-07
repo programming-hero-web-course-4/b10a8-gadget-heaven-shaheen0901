@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 const PurchasedItems = ({item}) => {
 
@@ -31,5 +32,8 @@ const PurchasedItems = ({item}) => {
     </div>
   );
 };
+PurchasedItems.propTypes ={
+  item: PropTypes.object,
+}
 
 export default PurchasedItems;

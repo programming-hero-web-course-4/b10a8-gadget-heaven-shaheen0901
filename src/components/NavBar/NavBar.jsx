@@ -2,6 +2,7 @@ import React from "react";
 import { IoCartOutline } from "react-icons/io5";
 import { FaRegHeart } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
+import logo from "../../assets/Logo.webp";
 
 const NavBar = () => {
   const links = (
@@ -51,7 +52,7 @@ const NavBar = () => {
         <a className="btn btn-ghost text-xl">
           <img
             className="w-52"
-            src="/src/assets/Logo.webp"
+            src={logo}
             alt="GadgetHeaven"
           />
         </a>

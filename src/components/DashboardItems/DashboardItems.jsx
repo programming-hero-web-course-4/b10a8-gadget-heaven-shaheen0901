@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import React from "react";
 import { RxCross2 } from "react-icons/rx";
 
@@ -41,5 +42,12 @@ const DashboardItems = ({item, handleRemove}) => {
     </div>
   );
 };
+
+DashboardItems.propTypes ={
+  item: PropTypes.object,
+  handleRemove: PropTypes.func
+
+}
+
 
 export default DashboardItems;

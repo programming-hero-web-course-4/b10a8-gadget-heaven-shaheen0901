@@ -1,11 +1,12 @@
 import React from "react";
+import logo from "../../assets/Logo.webp"
 
 const Footer = () => {
   return (
     <footer className=" bg-base-300 p-10">
       <div className="text-center border-b border-b-gray-400 pb-8 pt-12">
         <a className="text-xl font-extrabold ">
-        <img className='h-8 mx-auto' src="/src/assets/Logo.webp" alt="GadgetHeaven" /></a>
+        <img className='h-8 mx-auto' src={logo} alt="GadgetHeaven" /></a>
         <p className="text-xs mt-3">Leading the way in cutting-edge technology and innovation</p>
 
       </div>

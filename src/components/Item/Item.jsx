@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import PropTypes from "prop-types";
 
 const Item = ({item }) => {
   const {
@@ -34,6 +35,10 @@ const Item = ({item }) => {
       </div>
     </div>
   );
+};
+
+Item.propTypes={
+item: PropTypes.object,
 };
 
 export default Item;
