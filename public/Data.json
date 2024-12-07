@@ -1,0 +1,341 @@
+[
+    {
+      "product_id": "001",
+      "product_title": "Laptop - 16GB RAM, 512GB SSD",
+      "product_image": "https://i.ibb.co/x3gJwXQ/15-6-KUU-Laptop-Intel.webp",
+      "category": "Laptops",
+      "price": 1199.99,
+      "description": "Powerful laptop with 16GB RAM, 512GB SSD, and a 15.6-inch display for work and play.",
+      "specification": [
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "512GB SSD",
+        "15.6-inch Full HD display",
+        "Windows 10 pre-installed"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "TechPro",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "002",
+      "product_title": "Laptop - 8GB RAM, 256GB SSD",
+      "product_image": "https://i.ibb.co/phLwyH7/GUEST-27d39359-ea1f-4406-a7e8-72db92eaacf7.jpg",
+      "category": "Laptops",
+      "price": 899.99,
+      "description": "Compact laptop with 8GB RAM and 256GB SSD, perfect for everyday use.",
+      "specification": [
+        "Intel Core i5 processor",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3-inch Full HD display",
+        "Windows 10 pre-installed"
+      ],
+      "availability": true,
+      "rating": 3.5,
+      "brand": "EcoTech",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "003",
+      "product_title": "Smartphone - 128GB Storage",
+      "product_image": "https://i.ibb.co/w42Fw6w/b151eb6b-5fae-420a-a4e8-fca9c5332c1a-3cffd8542cefc549b54f121a37598dc4.webp",
+      "category": "Phones",
+      "price": 799.99,
+      "description": "Latest model smartphone with a 6.5-inch display, powerful camera, and ample storage.",
+      "specification": [
+        "6.5-inch OLED display",
+        "128GB internal storage",
+        "48MP rear camera",
+        "5G connectivity",
+        "4000mAh battery"
+      ],
+      "availability": true,
+      "rating": 3.6,
+      "brand": "TechMobile",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "004",
+      "product_title": "Smartphone - 64GB Storage",
+      "product_image": "https://i.ibb.co/W3pGHrz/Xiaomi-Redmi-Note-13-4-G-128-GB.jpg",
+      "category": "Phones",
+      "price": 499.99,
+      "description": "Affordable smartphone with solid performance and great battery life.",
+      "specification": [
+        "6.1-inch display",
+        "64GB internal storage",
+        "12MP rear camera",
+        "4G LTE",
+        "3000mAh battery"
+      ],
+      "availability": true,
+      "rating": 2.2,
+      "brand": "SmartConnect",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "005",
+      "product_title": "Bluetooth Wireless Earbuds",
+      "product_image": "https://i.ibb.co/XzygTbv/pexels-cottonbro-6889216.jpg",
+      "category": "Accessories",
+      "price": 59.99,
+      "description": "Wireless Bluetooth earbuds with superior sound quality and noise-cancelling.",
+      "specification": [
+        "Bluetooth 5.0",
+        "Noise-cancelling",
+        "Touch control",
+        "Up to 8 hours battery life",
+        "IPX5 water resistance"
+      ],
+      "availability": true,
+      "rating": 3.4,
+      "brand": "SoundWave",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "006",
+      "product_title": "Wireless Charging Pad",
+      "product_image": "https://i.ibb.co/Br707Bs/istockphoto-1204535375-1024x1024.webp",
+      "category": "Accessories",
+      "price": 64.99,
+      "description": "Fast wireless charging pad for your smartphone.",
+      "specification": [
+        "Qi wireless charging",
+        "Compatible with most smartphones",
+        "LED indicator",
+        "Overcharge protection"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "PowerPad",
+      "warranty": "6 months"
+    },
+    {
+      "product_id": "007",
+      "product_title": "Portable Power Bank",
+      "product_image": "https://i.ibb.co/3NzGD0V/istockphoto-1733091307-1024x1024.webp",
+      "category": "Accessories",
+      "price": 59.99,
+      "description": "High-capacity portable power bank for charging devices on the go.",
+      "specification": [
+        "10000mAh battery capacity",
+        "Dual USB ports",
+        "LED battery indicator",
+        "Fast charging"
+      ],
+      "availability": true,
+      "rating": 3.3,
+      "brand": "PowerMax",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "008",
+      "product_title": "Smartwatch - Health Tracker",
+      "product_image": "https://i.ibb.co/yQVfzrj/pexels-Health-Tracker.webp",
+      "category": "SmartWatches",
+      "price": 69.99,
+      "description": "Track your fitness goals and health metrics with this stylish smart fitness tracker.",
+      "specification": [
+        "Heart rate monitoring",
+        "Step tracking",
+        "Sleep analysis",
+        "Water-resistant",
+        "Battery life: 7 days"
+      ],
+      "availability": true,
+      "rating": 2.3,
+      "brand": "FitTrack",
+      "warranty": "6 months"
+    },
+    {
+      "product_id": "009",
+      "product_title": "Smartwatch - Fitness & Health Monitor",
+      "product_image": "https://i.ibb.co/Nrp0VXb/pexels-photo-24426021.webp",
+      "category": "SmartWatches",
+      "price": 129.99,
+      "description": "Smartwatch with heart rate monitoring, sleep tracking, and advanced fitness features.",
+      "specification": [
+        "Heart rate monitoring",
+        "Sleep tracking",
+        "GPS tracking",
+        "OLED display",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "HealthTrack",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "010",
+      "product_title": "4K Ultra HD Smart TV",
+      "product_image": "https://i.ibb.co/dbJVyqQ/TV.jpg",
+      "category": "Accessories",
+      "price": 499.99,
+      "description": "Experience vivid colors and stunning picture quality with this 4K Ultra HD Smart TV.",
+      "specification": [
+        "4K resolution",
+        "Smart TV with Wi-Fi",
+        "HDR support",
+        "Dolby Vision",
+        "65-inch screen"
+      ],
+      "availability": true,
+      "rating": 2.7,
+      "brand": "VisionPlus",
+      "warranty": "2 years"
+    },
+    {
+      "product_id": "011",
+      "product_title": "Wireless Bluetooth Headphones",
+      "product_image": "https://i.ibb.co/m81Gs48/pexels-photo-8001222.webp",
+      "category": "Accessories",
+      "price": 89.99,
+      "description": "High-quality wireless Bluetooth headphones with noise-cancelling features.",
+      "specification": [
+        "Bluetooth 5.0",
+        "Noise-cancelling",
+        "20-hour battery life",
+        "Comfortable ear cushions"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "SoundTech",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "012",
+      "product_title": "Bluetooth Speaker",
+      "product_image": "https://i.ibb.co/n6QpBJQ/pexels-photo-1279365.webp",
+      "category": "Accessories",
+      "price": 89.99,
+      "description": "Compact and portable Bluetooth speaker with high-quality sound for music lovers on the go.",
+      "specification": [
+        "Bluetooth 4.2",
+        "10-hour battery life",
+        "Water-resistant",
+        "Built-in microphone",
+        "Stereo sound"
+      ],
+      "availability": true,
+      "rating": 3.2,
+      "brand": "AudioMate",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "013",
+      "product_title": "Portable LED Projector",
+      "product_image": "https://i.ibb.co/hDYqhZD/m1plus-01.webp",
+      "category": "Accessories",
+      "price": 199.99,
+      "description": "Take your movie nights to the next level with this portable LED projector.",
+      "specification": [
+        "1080p resolution",
+        "Built-in speakers",
+        "HDMI and USB connectivity",
+        "Portable and lightweight"
+      ],
+      "availability": false,
+      "rating": 4.4,
+      "brand": "ProjectVision",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "014",
+      "product_title": "UltraBook - 8GB RAM, 256GB SSD",
+      "product_image": "https://i.ibb.co/ydMnsK4/pexels-photo.webp",
+      "category": "Laptops",
+      "price": 849.99,
+      "description": "Lightweight and portable ultrabook with 8GB RAM, 256GB SSD, and a 13.3-inch display.",
+      "specification": [
+        "Intel Core i5 processor",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3-inch Full HD display",
+        "Windows 11 pre-installed"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "SlimTech",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "015",
+      "product_title": "Gaming Laptop - 32GB RAM, 1TB SSD",
+      "product_image": "https://i.ibb.co/s2pRC97/pexels-photo.webp",
+      "category": "Laptops",
+      "price": 1799.99,
+      "description": "High-performance gaming laptop with 32GB RAM, 1TB SSD, and a 17-inch display.",
+      "specification": [
+        "Intel Core i9 processor",
+        "32GB RAM",
+        "1TB SSD",
+        "17-inch QHD display with 165Hz refresh rate",
+        "RGB keyboard"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "GameMax",
+      "warranty": "2 years"
+    },
+    {
+      "product_id": "016",
+      "product_title": "Convertible Laptop - 16GB RAM, 512GB SSD",
+      "product_image": "https://i.ibb.co/8XFGr4x/pexels-photo-2047905.webp",
+      "category": "Laptops",
+      "price": 1299.99,
+      "description": "Versatile 2-in-1 convertible laptop with touchscreen and pen support.",
+      "specification": [
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Full HD touchscreen",
+        "Windows 11 pre-installed"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "FlexNote",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "017",
+      "product_title": "Business Laptop - 8GB RAM, 512GB SSD",
+      "product_image": "https://i.ibb.co/d2qXQ5H/istockphoto-1248264026-2048x2048.jpg",
+      "category": "Laptops",
+      "price": 999.99,
+      "description": "Reliable business laptop with 8GB RAM, 512GB SSD, and extended battery life.",
+      "specification": [
+        "Intel Core i5 processor",
+        "8GB RAM",
+        "512GB SSD",
+        "15.6-inch Full HD display",
+        "Windows 10 Pro"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "ProWork",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "018",
+      "product_title": "Budget Laptop - 4GB RAM, 128GB SSD",
+      "product_image": "https://i.ibb.co/xF5XG98/pexels-photo-129208.webp",
+      "category": "Laptops",
+      "price": 399.99,
+      "description": "Affordable laptop for everyday use with 4GB RAM and 128GB SSD.",
+      "specification": [
+        "Intel Celeron processor",
+        "4GB RAM",
+        "128GB SSD",
+        "14-inch HD display",
+        "Windows 10 pre-installed"
+      ],
+      "availability": true,
+      "rating": 4.2,
+      "brand": "ValueTech",
+      "warranty": "6 months"
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+.custom-tab{
+    color:white;
+    cursor: pointer;
+    padding: 0.5rem;
+    text-align: center;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 0.5rem;
+    width: 100px
+}
+
+.custom-tab.react-tabs__tab--selected{
+    color:#9334EA;
+    background: white;
+}
